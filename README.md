@@ -29,7 +29,7 @@ Product information upload is achieved by accquiring AWS virtual server (free pl
 - <b>Windows 10</b> (21H2)
 <br/>
  
-- <h2>Page layour</h2>
+<h2>Page layout</h2>
 <p >
 Page layouts <br/>
 <img src="https://i.imgur.com/thEsu59.png" height="80%" width="80%" alt="gachagacha"/>
