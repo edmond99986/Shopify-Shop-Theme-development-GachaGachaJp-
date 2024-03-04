@@ -17,7 +17,7 @@ Managing the data and send it to a shopify store using python supported ShopifyA
 - <b>Windows 10</b> (21H2)
   
 <h2>Demonstration</h2>
-<img src="https://i.imgur.com/T8ou1Xl.png" height="80%" width="80%" alt="WebScraper
+<img src="https://i.imgur.com/ssWIBj4.png" height="80%" width="80%" alt="WebScraper
 "/><br/>
 <img src="https://i.imgur.com/o0pnJGO.png" height="50%" width="50%" alt="WebScraper
 "/><br/>
